@@ -1,0 +1,22 @@
+***************************************************************************************************************
+                                         
+
+git status      => check Status
+
+git init        => Add repo. to git
+
+git add (file name)    => add new file to staging area
+
+git add -a      => add all file to staging area
+
+git checkout FILENAME  => Compare with  last commmit and recover modified file as previous commit
+
+git checkout -f => Compare with  last commmit and recover modified file as previous commit for All
+
+git log => gives all commit
+
+git log -p -1/2/3 => gives specific no's commit
+
+ls => list all files
+
+git rm => remove file

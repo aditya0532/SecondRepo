@@ -1,0 +1,34 @@
+****************************************************************
+                       Tekla Platform Code   
+****************************************************************
+1 => Creates Windows form(convert to tekla button).
+2 => code goes in MainView.cs 
+in this
+
+check connection status
+and shows popup msg
+
+............LocalHelpers.cs...........
+
+collects all points from txt file 
+creates counterPlate and adds the contourpoint points 
+and inserts the counterplate
+
+create Rail >> creates polybeam
+
+creates MidFlate >> allbeams>> create angle
+****************************************************************
+                     Check on Youtube Task
+****************************************************************
+
+torties git 
+github
+
+pull >> push
+****************************************************************
+                     Tekla Platformm Task
+****************************************************************
+
+3d 
+fabrication 
+cnc
