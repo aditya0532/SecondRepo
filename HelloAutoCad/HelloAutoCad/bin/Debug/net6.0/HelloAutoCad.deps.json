@@ -1,0 +1,341 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "HelloAutoCad/1.0.0": {
+        "dependencies": {
+          "accoremgd": "24.2.0.0",
+          "acdbmgd": "24.2.0.0",
+          "acmgd": "24.2.0.0"
+        },
+        "runtime": {
+          "HelloAutoCad.dll": {}
+        }
+      },
+      "accoremgd/24.2.0.0": {
+        "runtime": {
+          "accoremgd.dll": {
+            "assemblyVersion": "24.2.0.0",
+            "fileVersion": "24.2.53.0"
+          }
+        }
+      },
+      "acdbmgd/24.2.0.0": {
+        "runtime": {
+          "acdbmgd.dll": {
+            "assemblyVersion": "24.2.0.0",
+            "fileVersion": "24.2.53.0"
+          }
+        },
+        "resources": {
+          "en-US/acdbmgd.resources.dll": {
+            "locale": "en-US"
+          }
+        }
+      },
+      "acmgd/24.2.0.0": {
+        "runtime": {
+          "acmgd.dll": {
+            "assemblyVersion": "24.2.0.0",
+            "fileVersion": "24.2.53.0"
+          }
+        }
+      },
+      "AdUiPalettes/24.2.0.0": {
+        "runtime": {
+          "AdUiPalettes.dll": {
+            "assemblyVersion": "24.2.0.0",
+            "fileVersion": "24.2.53.0"
+          }
+        }
+      },
+      "AcDx/24.2.0.0": {
+        "runtime": {
+          "AcDx.dll": {
+            "assemblyVersion": "24.2.0.0",
+            "fileVersion": "24.2.53.0"
+          }
+        },
+        "resources": {
+          "en-US/AcDx.resources.dll": {
+            "locale": "en-US"
+          }
+        }
+      },
+      "AcDxPublishUi/24.2.0.0": {
+        "runtime": {
+          "AcDxPublishUi.dll": {
+            "assemblyVersion": "24.2.0.0",
+            "fileVersion": "24.2.53.0"
+          }
+        },
+        "resources": {
+          "en-US/AcDxPublishUi.resources.dll": {
+            "locale": "en-US"
+          }
+        }
+      },
+      "AdWindows/4.0.0.6": {
+        "runtime": {
+          "AdWindows.dll": {
+            "assemblyVersion": "4.0.0.6",
+            "fileVersion": "4.0.0.6"
+          }
+        },
+        "resources": {
+          "en-US/AdWindows.resources.dll": {
+            "locale": "en-US"
+          }
+        }
+      },
+      "AcCui/24.2.0.0": {
+        "runtime": {
+          "AcCui.dll": {
+            "assemblyVersion": "24.2.0.0",
+            "fileVersion": "24.2.53.0"
+          }
+        }
+      },
+      "AcCustomize/24.2.0.0": {
+        "runtime": {
+          "AcCustomize.dll": {
+            "assemblyVersion": "24.2.0.0",
+            "fileVersion": "24.2.53.0"
+          }
+        },
+        "resources": {
+          "en-US/AcCustomize.resources.dll": {
+            "locale": "en-US"
+          }
+        }
+      },
+      "AppHomeInterop/24.2.0.0": {
+        "runtime": {
+          "AppHomeInterop.dll": {
+            "assemblyVersion": "24.2.0.0",
+            "fileVersion": "24.2.53.0"
+          }
+        },
+        "resources": {
+          "en-US/AppHomeInterop.resources.dll": {
+            "locale": "en-US"
+          }
+        }
+      },
+      "AcMr/24.2.0.0": {
+        "runtime": {
+          "AcMr.dll": {
+            "assemblyVersion": "24.2.0.0",
+            "fileVersion": "24.2.53.0"
+          }
+        },
+        "resources": {
+          "en-US/AcMr.resources.dll": {
+            "locale": "en-US"
+          }
+        }
+      },
+      "AcWindows/24.2.0.0": {
+        "runtime": {
+          "AcWindows.dll": {
+            "assemblyVersion": "24.2.0.0",
+            "fileVersion": "24.2.53.0"
+          }
+        },
+        "resources": {
+          "en-US/AcWindows.resources.dll": {
+            "locale": "en-US"
+          }
+        }
+      },
+      "AdUIMgd/24.2.0.0": {
+        "runtime": {
+          "AdUIMgd.dll": {
+            "assemblyVersion": "24.2.0.0",
+            "fileVersion": "24.2.53.0"
+          }
+        }
+      },
+      "AcTcMgd/24.2.0.0": {
+        "runtime": {
+          "AcTcMgd.dll": {
+            "assemblyVersion": "24.2.0.0",
+            "fileVersion": "24.2.53.0"
+          }
+        }
+      },
+      "AcMNUParser/24.2.0.0": {
+        "runtime": {
+          "AcMNUParser.dll": {
+            "assemblyVersion": "24.2.0.0",
+            "fileVersion": "24.2.53.0"
+          }
+        }
+      },
+      "Autodesk.AutoCAD.Interop/24.2.0.0": {
+        "runtime": {
+          "Autodesk.AutoCAD.Interop.dll": {
+            "assemblyVersion": "24.2.0.0",
+            "fileVersion": "24.2.53.0"
+          }
+        }
+      },
+      "Autodesk.DesktopConnector.API/5.0.0.105": {
+        "runtime": {
+          "Autodesk.DesktopConnector.API.dll": {
+            "assemblyVersion": "5.0.0.105",
+            "fileVersion": "5.0.0.105"
+          }
+        }
+      },
+      "Newtonsoft.Json/12.0.0.0": {
+        "runtime": {
+          "Newtonsoft.Json.dll": {
+            "assemblyVersion": "12.0.0.0",
+            "fileVersion": "12.0.3.23909"
+          }
+        }
+      },
+      "Serilog/2.0.0.0": {
+        "runtime": {
+          "Serilog.dll": {
+            "assemblyVersion": "2.0.0.0",
+            "fileVersion": "2.9.0.0"
+          }
+        }
+      },
+      "Serilog.Sinks.File/2.0.0.0": {
+        "runtime": {
+          "Serilog.Sinks.File.dll": {
+            "assemblyVersion": "2.0.0.0",
+            "fileVersion": "4.1.0.0"
+          }
+        }
+      },
+      "Autodesk.AutoCAD.Interop.Common/24.2.0.0": {
+        "runtime": {
+          "Autodesk.AutoCAD.Interop.Common.dll": {
+            "assemblyVersion": "24.2.0.0",
+            "fileVersion": "24.2.53.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "HelloAutoCad/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "accoremgd/24.2.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "acdbmgd/24.2.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "acmgd/24.2.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "AdUiPalettes/24.2.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "AcDx/24.2.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "AcDxPublishUi/24.2.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "AdWindows/4.0.0.6": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "AcCui/24.2.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "AcCustomize/24.2.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "AppHomeInterop/24.2.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "AcMr/24.2.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "AcWindows/24.2.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "AdUIMgd/24.2.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "AcTcMgd/24.2.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "AcMNUParser/24.2.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Autodesk.AutoCAD.Interop/24.2.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Autodesk.DesktopConnector.API/5.0.0.105": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Newtonsoft.Json/12.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Serilog/2.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Serilog.Sinks.File/2.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Autodesk.AutoCAD.Interop.Common/24.2.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
